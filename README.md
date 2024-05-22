@@ -24,19 +24,16 @@ Demonstrating the use of a message broker software, specifically RabbitMQ with s
 | File Name | Repo location | Type |
 | ----- | ----- | -----|
 | util_logger.py | utils folder | python script |
-| producer_of_emitter.log | logs | log |
+| producer_of_message.log | logs | log |
+| consumer_of_message.log | logs | log |
 | requirements.txt | main repo | text |
 | student_details.csv | main repo | csv |
-| MTA_emitter.py | main repo | python script |
-| MTA_listener.py | main repo | python script |
-| MTA_output.txt | main repo | text |
-| EmittingListeningSplit1 | ScreenShots folder | PNG |
-| MTA_outputfile1.png | ScreenShots folder | PNG |
-| MTA_outputfileMultiLineLoop.png | ScreenShots folder | PNG |
+| producer_of_message.py | main repo | python script |
+| consumer_of_message.py | main repo | python script |
+| EmittingListeningSplit1 | image folder | PNG |
 
 
 # Machine Specs & Terminal Information
-This project was created using a WindowsOS computer with the following Specs. These are not required to run this repository. For further details on this machine go to the utils folder and open util_output folder to access util_about.txt. The util_about.py was created by NW Missouri State University and added to the repository to provide technical info.
 
     * Date and Time: 2024-05-16 at 07:50 AM
     * Operating System: nt Windows 10
@@ -60,11 +57,6 @@ This project was created using a WindowsOS computer with the following Specs. Th
 Be sure that RabbitMQ is installed and running. For more information on RabbitMQ and its installation please see [RabbitMQ Home Page](https://www.rabbitmq.com/).
 
 # Data Source
-Annually millions of people utilize the NYC subways, and constant movement of the population around the city makes it an ideal source to create a fake data stream. The Metropolitan Transportation Authority is responsible for all public transport in New York City and collects data in batches by the hour. This batching creates counts for the number of passengers boarding a subway at a specific station. It also provides data concerning payment, geography, time, date, and location of moving populations based on stations. MTA Data is commonly utilized when discussing population movements among districts and the role of public transport.
-
-MTA Data is readily available from New York State from their Portal.
-
-NYC MTA Data for Subways: https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-Beginning-February-202/wujg-7c2s/about_data
 
 ## Modifications of Data
 The source contained 12 columns, however, the MTAHourlyData50R.csv has 7 columns. In this instance the column originally called "transit_time" has been split, the source had both time and date in the same column. This was addressed by separating time and date into two specific columns, by adding a column. The data has also been trimmed from its total of 56.3 million rows to 50 rows. Additionally, time was converted to load into the database. 
