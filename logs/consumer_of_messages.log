@@ -1,20 +1,10 @@
-2024-05-22 02:45:47,601.consumer_of_messages.INFO ==================================================
-2024-05-22 02:45:47,603.consumer_of_messages.INFO Today is 2024-05-22 at 02:45 AM
-2024-05-22 02:45:47,603.consumer_of_messages.INFO Running on: nt Windows 11
-2024-05-22 02:45:47,604.consumer_of_messages.INFO Python version:  3.12.1
-2024-05-22 02:45:47,604.consumer_of_messages.INFO Python path: C:\MS\data_analytics\github\44671_DataStreaming\streaming-03-bonus_Kamalini-1\.venv
-2024-05-22 02:45:47,605.consumer_of_messages.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\streaming-03-bonus_Kamalini-1
-2024-05-22 02:45:47,606.consumer_of_messages.INFO ==================================================
-2024-05-22 02:45:47,677.consumer_of_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
-2024-05-22 02:47:47,000.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Mathematics, Grade: A
-2024-05-22 02:47:50,025.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Physics, Grade: B+
-2024-05-22 02:47:53,042.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Chemistry, Grade: A-
-2024-05-22 02:47:56,067.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Mathematics, Grade: A-
-2024-05-22 02:47:59,089.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Computer Science, Grade: B
-2024-05-22 02:48:02,110.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Biology, Grade: A
-2024-05-22 02:48:05,133.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: Mathematics, Grade: B+
-2024-05-22 02:48:08,157.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: Physics, Grade: A
-2024-05-22 02:48:11,186.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: English, Grade: A-
-2024-05-22 02:48:14,212.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Mathematics, Grade: A
-2024-05-22 02:48:17,231.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Computer Science, Grade: A-
-2024-05-22 02:48:20,266.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Biology, Grade: B+
+2024-05-22 03:25:52,222.consumer_of_messages.INFO ==================================================
+2024-05-22 03:25:52,223.consumer_of_messages.INFO Today is 2024-05-22 at 03:25 AM
+2024-05-22 03:25:52,223.consumer_of_messages.INFO Running on: nt Windows 11
+2024-05-22 03:25:52,223.consumer_of_messages.INFO Python version:  3.12.1
+2024-05-22 03:25:52,224.consumer_of_messages.INFO Python path: C:\MS\data_analytics\github\44671_DataStreaming\streaming-03-bonus_Kamalini-1\.venv
+2024-05-22 03:25:52,225.consumer_of_messages.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\streaming-03-bonus_Kamalini-1
+2024-05-22 03:25:52,225.consumer_of_messages.INFO ==================================================
+2024-05-22 03:25:52,246.consumer_of_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2024-05-22 03:25:52,247.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Mathematics, Grade: A
+2024-05-22 03:25:52,553.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Physics, Grade: B+

@@ -1,19 +1,19 @@
-2024-05-22 02:47:46,948.producer_of_message.INFO ==================================================
-2024-05-22 02:47:46,949.producer_of_message.INFO Today is 2024-05-22 at 02:47 AM
-2024-05-22 02:47:46,951.producer_of_message.INFO Running on: nt Windows 11
-2024-05-22 02:47:46,953.producer_of_message.INFO Python version:  3.12.1
-2024-05-22 02:47:46,954.producer_of_message.INFO Python path: c:\MS\data_analytics\github\44671_DataStreaming\streaming-03-bonus_Kamalini-1\.venv
-2024-05-22 02:47:46,956.producer_of_message.INFO Working dir: c:\MS\data_analytics\github\44671_DataStreaming\streaming-03-bonus_Kamalini-1
-2024-05-22 02:47:46,958.producer_of_message.INFO ==================================================
-2024-05-22 02:47:46,995.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Mathematics, Grade: A
-2024-05-22 02:47:50,022.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Physics, Grade: B+
-2024-05-22 02:47:53,041.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Chemistry, Grade: A-
-2024-05-22 02:47:56,066.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Mathematics, Grade: A-
-2024-05-22 02:47:59,088.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Computer Science, Grade: B
-2024-05-22 02:48:02,109.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Biology, Grade: A
-2024-05-22 02:48:05,132.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: Mathematics, Grade: B+
-2024-05-22 02:48:08,157.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: Physics, Grade: A
-2024-05-22 02:48:11,185.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: English, Grade: A-
-2024-05-22 02:48:14,210.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Mathematics, Grade: A
-2024-05-22 02:48:17,230.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Computer Science, Grade: A-
-2024-05-22 02:48:20,265.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Biology, Grade: B+
+2024-05-22 03:25:49,505.producer_of_message.INFO ==================================================
+2024-05-22 03:25:49,506.producer_of_message.INFO Today is 2024-05-22 at 03:25 AM
+2024-05-22 03:25:49,506.producer_of_message.INFO Running on: nt Windows 11
+2024-05-22 03:25:49,507.producer_of_message.INFO Python version:  3.12.1
+2024-05-22 03:25:49,507.producer_of_message.INFO Python path: C:\MS\data_analytics\github\44671_DataStreaming\streaming-03-bonus_Kamalini-1\.venv
+2024-05-22 03:25:49,507.producer_of_message.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\streaming-03-bonus_Kamalini-1
+2024-05-22 03:25:49,507.producer_of_message.INFO ==================================================
+2024-05-22 03:25:49,528.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Mathematics, Grade: A
+2024-05-22 03:25:52,552.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Physics, Grade: B+
+2024-05-22 03:25:55,572.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Chemistry, Grade: A-
+2024-05-22 03:25:58,590.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Mathematics, Grade: A-
+2024-05-22 03:26:01,603.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Computer Science, Grade: B
+2024-05-22 03:26:04,621.producer_of_message.INFO  [x] Sent StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Biology, Grade: A
+2024-05-22 03:26:07,641.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: Mathematics, Grade: B+
+2024-05-22 03:26:10,659.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: Physics, Grade: A
+2024-05-22 03:26:13,676.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: English, Grade: A-
+2024-05-22 03:26:16,700.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Mathematics, Grade: A
+2024-05-22 03:26:19,726.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Computer Science, Grade: A-
+2024-05-22 03:26:22,746.producer_of_message.INFO  [x] Sent StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Biology, Grade: B+
