@@ -8,3 +8,13 @@
 2024-05-22 03:25:52,246.consumer_of_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
 2024-05-22 03:25:52,247.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Mathematics, Grade: A
 2024-05-22 03:25:52,553.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Physics, Grade: B+
+2024-05-22 03:25:55,573.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Spring 2023, Course: Chemistry, Grade: A-
+2024-05-22 03:25:58,592.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Mathematics, Grade: A-
+2024-05-22 03:26:01,604.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Computer Science, Grade: B
+2024-05-22 03:26:04,621.consumer_of_messages.INFO Received: StudentID: 1001, Name: John Doe, Semester: Fall 2023, Course: Biology, Grade: A
+2024-05-22 03:26:07,641.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: Mathematics, Grade: B+
+2024-05-22 03:26:10,660.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: Physics, Grade: A
+2024-05-22 03:26:13,677.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Spring 2023, Course: English, Grade: A-
+2024-05-22 03:26:16,702.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Mathematics, Grade: A
+2024-05-22 03:26:19,727.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Computer Science, Grade: A-
+2024-05-22 03:26:22,747.consumer_of_messages.INFO Received: StudentID: 1002, Name: Jane Smith, Semester: Fall 2023, Course: Biology, Grade: B+
