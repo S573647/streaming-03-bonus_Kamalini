@@ -13,7 +13,8 @@ Remember:
 
 # Import from Standard Library
 import sys
-
+import csv
+import time
 # Import External packages used
 import pika
 
@@ -67,4 +68,25 @@ def send_message(host: str, queue_name: str, message: str):
 # If this is the script we are running, then call some functions and execute code!
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
-    send_message("localhost", "hello", "Hello World!")
+    #CSV file variable
+    studentdata = "student_details.csv"
+
+    #Opens the CSV file and reads the data
+    with open(studentdata, newline='') as csvfile:
+        csvreader = csv.reader(csvfile)
+    
+        # get the headers (first row)
+        headers = next(csvreader)
+    
+        # iterate over each row in the CSV
+        for row in csvreader:
+            # construct the message from the row
+            message = ', '.join(f"{header}: {value}" for header, value in zip(headers, row))
+        
+            # print a message to the console for the user
+            print(f" [x] Sent '{message}'")
+            
+            #call the send message to produce the message for the consumer 
+            send_message("localhost", "student", message)
+            # wait for 3 seconds before sending the next message
+            time.sleep(3)

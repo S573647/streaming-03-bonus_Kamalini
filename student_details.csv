@@ -1,0 +1,13 @@
+StudentID,Name,Semester,Course,Grade
+1001,John Doe,Spring 2023,Mathematics,A
+1001,John Doe,Spring 2023,Physics,B+
+1001,John Doe,Spring 2023,Chemistry,A-
+1001,John Doe,Fall 2023,Mathematics,A-
+1001,John Doe,Fall 2023,Computer Science,B
+1001,John Doe,Fall 2023,Biology,A
+1002,Jane Smith,Spring 2023,Mathematics,B+
+1002,Jane Smith,Spring 2023,Physics,A
+1002,Jane Smith,Spring 2023,English,A-
+1002,Jane Smith,Fall 2023,Mathematics,A
+1002,Jane Smith,Fall 2023,Computer Science,A-
+1002,Jane Smith,Fall 2023,Biology,B+
