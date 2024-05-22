@@ -151,6 +151,11 @@ def main(hn: str = "localhost"):
         logger.error()
         sys.exit(1)
 ```
+## Example Image
+
+![slit Image](images/## Example Image
+
+![Example Image](images/EmittingListeningSplit1.png)
 
 # Resources
 1. Pika Information: https://github.com/pika/pika
